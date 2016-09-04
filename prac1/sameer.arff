@@ -1,0 +1,18 @@
+@RELATION student
+
+@Attribute name string
+@Attribute rollno numeric
+@Attribute grade numeric
+@Attribute class {a,b,c,d}
+
+
+@Data
+sameer,1,1,a
+ravi,2,2,b
+pras,3,3,c
+hack,?,4,c
+reas,5,5,d
+asds,6,6,c
+adsd,45,43,a
+rwe,67,67,b
+fsdfd,54,54,c

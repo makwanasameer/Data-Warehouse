@@ -1,0 +1,19 @@
+@relation rel
+
+@attribute i1 {1}
+@attribute i2 {1}
+@attribute i3 {1}
+@attribute i4 {1}
+@attribute i5 {1}
+
+@data
+1,1,?,?,1
+?,1,?,1,?
+?,1,1,?,?
+1,1,?,1,?
+1,?,1,?,?
+1,1,?,?,1
+?,1,1,?,?
+1,?,1,?,?
+1,1,1,?,1
+1,1,1,?,?
